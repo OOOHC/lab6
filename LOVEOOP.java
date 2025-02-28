@@ -1,5 +1,5 @@
 public class LoveOOP {
      public static void main(String[] args){
-          System.out.println("Hello World from conflict");
+          System.out.println("Hello World from both branches!");
      }
 }
